@@ -2,6 +2,7 @@
 Binary Image Classifier in F# using ML.NET
 
 # Requirements
+- [Mono](https://www.mono-project.com/) on Mac or Linux `brew install mono`
 - .NET Core 2.1
 - [FAKE dotnet cli tool](https://fake.build/fake-gettingstarted.html)
 - On Mac or Linux `brew install mono-libgdiplus`
