@@ -1,0 +1,4 @@
+FSharp.Core
+Microsoft.ML
+Microsoft.ML.ImageAnalytics
+Microsoft.ML.TensorFlow

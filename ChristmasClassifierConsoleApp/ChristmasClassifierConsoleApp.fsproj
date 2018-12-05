@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Common.fs" />
+    <Compile Include="Domain/ImageData.fs" />
+    <Compile Include="Domain/Configuration.fs" />
+    <Compile Include="Estimator.fs" />
+    <Compile Include="Trainer.fs" />
+    <Compile Include="ModelBuilder.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+  <Import Project="..\.paket\Paket.Restore.targets" />
+</Project>

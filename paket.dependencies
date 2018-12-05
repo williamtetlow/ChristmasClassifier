@@ -1,0 +1,7 @@
+source https://www.nuget.org/api/v2
+nuget FAKE
+nuget FSharp.Core
+nuget FSharp.Data
+nuget Microsoft.ML 0.7.0
+nuget Microsoft.ML.ImageAnalytics 0.7.0
+nuget Microsoft.ML.TensorFlow 0.7.0
