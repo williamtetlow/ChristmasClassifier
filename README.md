@@ -1,5 +1,5 @@
 # ChristmasClassifier
-Binary Image Classifier in F# using ML.NET
+Binary Image Classifier in F# using ML.NET described in this [blog post](https://medium.com/@willie.tetlow/f-advent-calendar-a-christmas-classifier-72fb9e9d8f23).
 
 # Requirements
 - [Mono](https://www.mono-project.com/) on Mac or Linux `brew install mono`
